@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>day.0 是什么，为什么，怎么样</title>
+    <url>/2023/04/01/day-0/</url>
+    <content><![CDATA[<h1 id="1-这个博客是个啥"><a class="markdownIt-Anchor" href="#1-这个博客是个啥"></a> 1. 这个博客是个啥？</h1>
+<p>这是个用于<s>发癫</s>记录每日有价值的事情的博客。听起来是不是听像日记的？所以我就叫它赛博笔记本了。</p>
+<h1 id="2-为什么要建立这个博客"><a class="markdownIt-Anchor" href="#2-为什么要建立这个博客"></a> 2. 为什么要建立这个博客？</h1>
+<ul>
+<li>用于记录解决过的问题，不用翻收藏夹。</li>
+<li>用于记录生活的中的琐事，<s>拯救我日益退化的记忆力</s>。</li>
+<li>未完待续</li>
+</ul>
+<h1 id="3-怎样部署的这个博客"><a class="markdownIt-Anchor" href="#3-怎样部署的这个博客"></a> 3. 怎样部署的这个博客？</h1>
+<p>博客使用<a href="https://hexo.io/zh-cn/">Hexo博客框架</a>和<a href="https://github.com/next-theme/awesome-next">Next主题</a>。本人技术水平不算很高，就不班门弄斧了，可以参考以下资料：</p>
+<ul>
+<li><a href="https://theme-next.js.org/docs/">Next官方文档</a></li>
+<li><a href="https://theme-next.iissnan.com/getting-started.html">Next中文文档</a></li>
+<li><a href="https://guanqr.com/tech/website/hexo-theme-next-customization/">Hexo-NexT 主题个性优化</a></li>
+<li><a href="https://blog.csdn.net/as480133937/article/details/100138838">Hexo-Next 主题博客个性化配置超详细，超全面(两万字)</a></li>
+</ul>
+<p>我在这里主要讲如何在<a href="https://pages.cloudflare.com/">Cloudflare Pages</a>和<a href="https://pages.github.com/">Github Pages</a>上部署博客。</p>
+<h2 id="1前置条件"><a class="markdownIt-Anchor" href="#1前置条件"></a> (1).前置条件</h2>
+<ul>
+<li>一个可以运行的Hexo博客</li>
+<li>Cloudflare/Github账户</li>
+<li>良好的网络连接情况</li>
+</ul>
+<h2 id="2使用静态界面部署"><a class="markdownIt-Anchor" href="#2使用静态界面部署"></a> (2).使用静态界面部署</h2>
+]]></content>
+      <categories>
+        <category>日记</category>
+        <category>公告</category>
+      </categories>
+      <tags>
+        <tag>技术集</tag>
+      </tags>
+  </entry>
+</search>
